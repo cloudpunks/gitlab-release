@@ -1,4 +1,4 @@
-FROM ghcr.io/cloudpunks/alpine:3.19@sha256:81884e08538321c6bc893c2f06739bfbb35470908d1f0e59bf493fd1bed7d26d
+FROM ghcr.io/cloudpunks/alpine:3.19@sha256:cc09c815f6d8ec9f5cf945c7d7ec9630755ffa9e312d47ab6fd7a82f68a0ae04
 ENTRYPOINT [""]
 
 # renovate: datasource=gitlab-releases depName=gitlab-org/release-cli
